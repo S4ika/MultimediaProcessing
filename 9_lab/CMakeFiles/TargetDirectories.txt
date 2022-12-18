@@ -1,0 +1,3 @@
+/home/s4ika/Documents/CppProgs/9_lab/CMakeFiles/rebuild_cache.dir
+/home/s4ika/Documents/CppProgs/9_lab/CMakeFiles/edit_cache.dir
+/home/s4ika/Documents/CppProgs/9_lab/CMakeFiles/nine_lab.dir
